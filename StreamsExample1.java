@@ -9,9 +9,9 @@ import java.util.*;
 public class StreamsExample1 {
 
   public static class Person {
-    private final String firstName;
-    private final String lastName;
-    private final int age;
+    private String firstName;
+    private String lastName;
+    private int age;
 
     public Person(String firstName, String lastName, int age) {
       this.firstName = firstName;
