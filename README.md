@@ -11,5 +11,3 @@ Java 8 looks easier to write, and therefore possibly more suited when tackling c
 ### Future goals:
 
 1. Learn Java frameworks and testing in Java. 
-
-2. See if I can build a web app using Java to expand my experience as a full stack engineer.
